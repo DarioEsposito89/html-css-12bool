@@ -92,61 +92,61 @@
 /* OFFSETS COLUMNS */
 
 /* 1/12 */
-.col-1 {
+.col-offset-1 {
     margin-left: calc(100% / 12);
 }
 
 /* 2/12 */
-.col-2 {
+.col-offset-2 {
     margin-left: calc((100% / 12) * 2);
 }
 
 /* 3/12 */
-.col-3 {
+.col-offset-3 {
     margin-left: calc((100% / 12) * 3);
 }
 
 /* 4/12 */
-.col-4 {
+.col-offset-4 {
     margin-left: calc((100% / 12) * 4);
 }
 
 /* 5/12 */
-.col-5 {
+.col-offset-5 {
     margin-left: calc((100% / 12) * 5);
 }
 
 /* 6/12 */
-.col-6 {
+.col-offset-6 {
     margin-left: calc((100% / 12) * 6);
 }
 /* 7/12 */
-.col-7 {
+.col-offset-7 {
     margin-left: calc((100% / 12) * 7);
 }
 
 /* 8/12 */
-.col-8 {
+.col-offset-8 {
     margin-left: calc((100% / 12) * 8);
 }
 
 /* 9/12 */
-.col-9 {
+.col-offset-9 {
     margin-left: calc((100% / 12) * 9);
 }
 
 /* 10/12 */
-.col-10 {
+.col-offset-10 {
     margin-left: calc((100% / 12) * 10);
 }
 
 /* 11/12 */
-.col-11 {
+.col-offset-11 {
     margin-left: calc((100% / 12) * 11);
 }
 
 /* 12/12 */
-.col-12 {
+.col-offset-12 {
     margin-left: calc((100% / 12) * 12);
 }
 
