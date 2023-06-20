@@ -1,6 +1,4 @@
-
-
-/* COLUMN */
+/* COLUMNS */
 
 /* 1/12 */
 .col-1 {
@@ -72,4 +70,67 @@
     flex-basis: calc((100% / 12) * 12);
     max-width: calc((100% / 12) * 12);
 }
+
+
+/* OFFSETS COLUMNS */
+
+/* 1/12 */
+.col-1 {
+    margin-left: calc(100% / 12);
+}
+
+/* 2/12 */
+.col-2 {
+    margin-left: calc((100% / 12) * 2);
+}
+
+/* 3/12 */
+.col-3 {
+    margin-left: calc((100% / 12) * 3);
+}
+
+/* 4/12 */
+.col-4 {
+    margin-left: calc((100% / 12) * 4);
+}
+
+/* 5/12 */
+.col-5 {
+    margin-left: calc((100% / 12) * 5);
+}
+
+/* 6/12 */
+.col-6 {
+    margin-left: calc((100% / 12) * 6);
+}
+/* 7/12 */
+.col-7 {
+    margin-left: calc((100% / 12) * 7);
+}
+
+/* 8/12 */
+.col-8 {
+    margin-left: calc((100% / 12) * 8);
+}
+
+/* 9/12 */
+.col-9 {
+    margin-left: calc((100% / 12) * 9);
+}
+
+/* 10/12 */
+.col-10 {
+    margin-left: calc((100% / 12) * 10);
+}
+
+/* 11/12 */
+.col-11 {
+    margin-left: calc((100% / 12) * 11);
+}
+
+/* 12/12 */
+.col-12 {
+    margin-left: calc((100% / 12) * 12);
+}
+
 
