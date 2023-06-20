@@ -8,6 +8,7 @@
     flex: 0 0 auto;
 }
 
+/* COL JOLLY */
 .col {
     flex-grow: 1;
     flex-basis: 0;
@@ -150,3 +151,32 @@
 }
 
 
+/* MEDIA QUERY MOBILE FIRST */
+
+
+/* SM */
+@media screen and (min-width: 576px) {
+    
+}
+
+
+/* MD */
+@media screen and (min-width: 768px) {
+    
+}
+
+
+/* LG */
+@media screen and (min-width: 1200px) {
+    
+}
+
+/* XL */
+@media screen and (min-width: 1400px) {
+    
+}
+
+/* XXL */
+@media screen and (min-width: 992px) {
+    
+}
