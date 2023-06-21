@@ -8,6 +8,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+section {
+    padding: .5rem 0;
+}
+
 .container {
     margin: auto;
     max-width: 1170px;
@@ -15,10 +19,20 @@ body {
 }
 
 [class*="col-"] {
+    color: white;
     border: 1px solid white;
     background-color: #046bfb;
+    min-height: 40px;
 }
 
-.background-green {
-    background-color: #05e365;
+.box {
+    text-align: center;
+    line-height: 40px;
+    padding: .5rem 1rem;
 }
+
+.nested {
+    background-color: #05e365;
+    border-color: #046bfb;
+}
+
